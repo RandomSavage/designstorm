@@ -15,7 +15,7 @@
           <a class="active" href="admin/dashboard.html"> <i class="fa fa-tachometer" aria-hidden="true"></i>Dashboard</a>
           <a class="active" href="admin/dashboard.html"> <i class="fa fa-tachometer" aria-hidden="true"></i>Dashboard</a>
           <a class="active" href="admin/dashboard.html"> <i class="fa fa-tachometer" aria-hidden="true"></i>Dashboard</a>
-          <a class="active" href="admin/dashboard.html"> <i class="fa fa-tachometer" aria-hidden="true"></i>Dashboard</a>
+          <a class="active" href="/home"> <i class="fa fa-tachometer" aria-hidden="true"></i>Home</a>
         </nav>
       </div>
       <div id="content-area">
