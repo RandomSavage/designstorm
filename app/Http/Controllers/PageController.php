@@ -20,6 +20,10 @@ class PageController extends Controller {
 
       return view('pages/results');
     }
+
+    public function spinMe() {
+      return view('spinners/spinner');
+    }
 }
 
 

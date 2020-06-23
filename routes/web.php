@@ -24,3 +24,7 @@ Route::get('/account', 'AccountController@index');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+
+//Route for spinner
+Route::get('/spinner', 'PageController@spinMe');
